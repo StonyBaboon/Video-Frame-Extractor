@@ -188,7 +188,7 @@ Tkinter is included with most standard Python installations on Windows.
 Clone the repository:
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/VideoFrameExtractor.git
+git clone https://github.com/StonyBaboon/VideoFrameExtractor.git
 ```
 
 Enter the project directory:
