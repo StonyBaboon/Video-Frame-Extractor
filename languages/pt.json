@@ -1,0 +1,62 @@
+{
+    "_language_name": "Português",
+
+    "app_title": "Extrator de Frames de Vídeo",
+
+    "language": "Idioma",
+
+    "video": "Vídeo",
+    "select_video": "Selecionar vídeo...",
+    "no_video": "Nenhum vídeo selecionado",
+
+    "destination": "Destino",
+    "select_folder": "Selecionar pasta...",
+    "no_folder": "Nenhuma pasta selecionada",
+
+    "information": "Informações",
+    "select_video_info": "Selecione um vídeo para ver as informações.",
+
+    "configuration": "Configuração",
+
+    "interval": "Intervalo (segundos):",
+
+    "mode": "Modo:",
+    "random_frame": "Frame aleatório",
+    "specific_frame": "Frame específico",
+
+    "frame_inside_interval": "Frame dentro do intervalo:",
+
+    "quantity": "Quantidade:",
+    "all": "Todos",
+    "custom": "Personalizado",
+
+    "progress": "Progresso",
+
+    "ready": "Pronto.",
+    "extracting": "A extrair frames...",
+    "stopping": "A parar...",
+    "stopped": "Parado. {count} frames guardados.",
+    "finished": "Concluído! {count} frames guardados.",
+
+    "start": "EXTRAIR FRAMES",
+    "stop": "PARAR",
+
+    "warning": "Aviso",
+    "error": "Erro",
+    "success": "Concluído",
+
+    "select_video_first": "Seleciona primeiro um vídeo.",
+    "select_folder_first": "Seleciona primeiro a pasta de destino.",
+
+    "invalid_interval": "O intervalo deve ser um número maior que 0.",
+
+    "invalid_frame": "O frame específico deve ser um número inteiro.",
+
+    "invalid_quantity": "A quantidade deve ser um número inteiro maior que 0.",
+
+    "cannot_open_video": "Não foi possível abrir o vídeo.",
+
+    "frames_extracted": "Frames extraídos: {current} / {total}",
+
+    "video_info": "FPS: {fps:.2f}    |    Frames: {frames:,}    |    Resolução: {width}x{height}    |    Duração: {duration}"
+}

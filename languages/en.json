@@ -1,0 +1,62 @@
+{
+    "_language_name": "English",
+
+    "app_title": "Video Frame Extractor",
+
+    "language": "Language",
+
+    "video": "Video",
+    "select_video": "Select video...",
+    "no_video": "No video selected",
+
+    "destination": "Destination",
+    "select_folder": "Select folder...",
+    "no_folder": "No folder selected",
+
+    "information": "Information",
+    "select_video_info": "Select a video to see its information.",
+
+    "configuration": "Configuration",
+
+    "interval": "Interval (seconds):",
+
+    "mode": "Mode:",
+    "random_frame": "Random frame",
+    "specific_frame": "Specific frame",
+
+    "frame_inside_interval": "Frame inside interval:",
+
+    "quantity": "Quantity:",
+    "all": "All",
+    "custom": "Custom",
+
+    "progress": "Progress",
+
+    "ready": "Ready.",
+    "extracting": "Extracting frames...",
+    "stopping": "Stopping...",
+    "stopped": "Stopped. {count} frames saved.",
+    "finished": "Finished! {count} frames saved.",
+
+    "start": "EXTRACT FRAMES",
+    "stop": "STOP",
+
+    "warning": "Warning",
+    "error": "Error",
+    "success": "Finished",
+
+    "select_video_first": "Select a video first.",
+    "select_folder_first": "Select the destination folder first.",
+
+    "invalid_interval": "The interval must be a number greater than 0.",
+
+    "invalid_frame": "The specific frame must be an integer.",
+
+    "invalid_quantity": "The quantity must be an integer greater than 0.",
+
+    "cannot_open_video": "Could not open the video.",
+
+    "frames_extracted": "Frames extracted: {current} / {total}",
+
+    "video_info": "FPS: {fps:.2f}    |    Frames: {frames:,}    |    Resolution: {width}x{height}    |    Duration: {duration}"
+}
